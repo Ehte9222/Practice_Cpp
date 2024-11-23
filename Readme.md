@@ -58,6 +58,6 @@ You’re free to use, modify, or share it however you like.
 If you have questions or suggestions, feel free to reach out!  
 - **Email:** [ehtesham9222@gmail.com]  
 - **Work Email:** [ehtesham@perceptiond.com]
-- **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/ehte1337/)  
+- **LinkedIn:** [LinkedInProfile](https://www.linkedin.com/in/ehte1337/)  
 
 Happy Coding! 🎉  
