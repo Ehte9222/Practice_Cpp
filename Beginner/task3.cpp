@@ -24,4 +24,5 @@ int main(){
     cout << "The sizeof(double) is : "<<sizeof(double) << " bytes" <<endl;
     cout << "The sizeof(long double) is : "<<sizeof(long double) << " bytes" <<endl;
     cout << "The sizeof(bool) is : "<<sizeof(bool) << " bytes" <<endl;
+    cout << "The size of int:" << sizeof (int) << "bytes" << endl;
 }
