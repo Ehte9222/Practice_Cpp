@@ -6,7 +6,7 @@ int main() {
 int a, b, sum;
 cout << "\n Input the first number : ";
 cin  >> a;
-cout << "n/ Input the second number : ";
+cout << "\n Input the second number : ";
 cin  >> b;
 sum = a + b;
 cout << "\n The sum of two numbers is : " << sum;
