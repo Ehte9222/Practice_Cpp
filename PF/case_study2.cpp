@@ -31,7 +31,7 @@ int main()
 	else if (marks >= 70 && marks < 79)
 	{ 
 		if (project >= 80)
-		cout<<"Grade C";
+		cout<<"Grade C";docs 
 		else if (project >= 60 && project < 79)
 		cout<<"Grade D";
 		else
